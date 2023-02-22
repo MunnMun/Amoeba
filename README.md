@@ -1,1 +1,1 @@
-Amoeba is a Chat App
+Amoeba Chat App
